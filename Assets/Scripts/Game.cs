@@ -26,7 +26,7 @@ public class Game : MonoBehaviour
 
         //StartCoroutine(Calibrate());
 
-        StartCoroutine(PlayVideo());
+        //StartCoroutine(PlayVideo());
     }
 
     // Update is called once per frame
